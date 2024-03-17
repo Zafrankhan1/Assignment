@@ -1,4 +1,4 @@
-
+//main page of the application.
 let myName="Zafran Khan"
 function MyName(){
   return (
